@@ -15,5 +15,6 @@ is very symple.
 The htop command computes the entropy of braids written
 with usual generators. To get help type "htop" alone.
 
+NB: htop is not htop
 
 	   
